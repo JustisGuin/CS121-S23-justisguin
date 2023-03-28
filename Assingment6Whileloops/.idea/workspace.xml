@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d7fc873-debb-4dc5-9381-b945b6eab17d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Activity2Conditionals/src/BookClubPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2Conditionals/src/TestScores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assingment4/src/ALLIFs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assingment5-loop/src/forLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logicalOperatorAct3/src/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logicalOperatorAct3/src/Triangles.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L2J1DlPGkpR8RerpquYYdXAxFH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d7fc873-debb-4dc5-9381-b945b6eab17d" name="Changes" comment="" />
+      <created>1675063027925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675063027925</updated>
+    </task>
+    <servers />
+  </component>
+</project>
