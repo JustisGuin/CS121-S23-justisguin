@@ -1,8 +1,8 @@
-package activity26;
+package activity25;
 
 import java.util.Scanner;
 
-public class Sorting {
+public class sortClass {
 
     public int[] getArray(){
         Scanner input= new Scanner(System.in);
