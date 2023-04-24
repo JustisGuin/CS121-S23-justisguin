@@ -1,8 +1,5 @@
 # CS121-S23-justisguin
 
-
-<h3>My name is Justis Guin<h3>   
-
 |Name|File|Description|
 |:----:| ------|-----------|
 |1|[Activities 26-36](https://github.com/JustisGuin/CS121-S23-justisguin/tree/main/Act%2026%20selection%20insertion%20quick%20sort/src/Activity26)| Intro to data structures and different sorting algorithms|
